@@ -1,0 +1,11 @@
+[
+  {
+    "author":"Bob",
+    "body":"Hey Alice!\nWhere are you?",
+    "datetime": 1677444888
+  }, {
+    "author": "Alice",
+    "body": "👋 Bob!\nI'll be here in a minute 🕣",
+    "datetime": 1677444999
+  }
+]
